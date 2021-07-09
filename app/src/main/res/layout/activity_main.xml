@@ -33,6 +33,11 @@
             android:layout_gravity="center_horizontal"
             android:text="Press to scan QR code"/>
 
+        <TextView
+            android:id="@+id/txtView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
 
 
     </LinearLayout>
